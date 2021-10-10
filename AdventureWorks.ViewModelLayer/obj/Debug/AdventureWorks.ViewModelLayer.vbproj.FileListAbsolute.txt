@@ -1,0 +1,17 @@
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.ViewModelLayer.dll
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.ViewModelLayer.pdb
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.ViewModelLayer.xml
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.EntityLayer.dll
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\bin\Debug\Common.Library.dll
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.EntityLayer.pdb
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\bin\Debug\AdventureWorks.EntityLayer.xml
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\bin\Debug\Common.Library.pdb
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\bin\Debug\Common.Library.xml
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.vbproj.AssemblyReference.cache
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.Resources.resources
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.vbproj.GenerateResource.cache
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.vbproj.CoreCompileInputs.cache
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.vbproj.CopyComplete
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.dll
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.xml
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.ViewModelLayer\obj\Debug\AdventureWorks.ViewModelLayer.pdb

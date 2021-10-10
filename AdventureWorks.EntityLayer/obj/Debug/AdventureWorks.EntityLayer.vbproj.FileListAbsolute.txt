@@ -1,0 +1,13 @@
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\bin\Debug\AdventureWorks.EntityLayer.dll
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\bin\Debug\AdventureWorks.EntityLayer.pdb
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\bin\Debug\AdventureWorks.EntityLayer.xml
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\bin\Debug\Common.Library.dll
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\bin\Debug\Common.Library.pdb
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\bin\Debug\Common.Library.xml
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.vbproj.AssemblyReference.cache
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.Resources.resources
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.vbproj.GenerateResource.cache
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.vbproj.CoreCompileInputs.cache
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.dll
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.xml
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.pdb

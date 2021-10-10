@@ -1,0 +1,10 @@
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\Common.Library\bin\Debug\Common.Library.dll
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\Common.Library\bin\Debug\Common.Library.pdb
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\Common.Library\bin\Debug\Common.Library.xml
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\Common.Library\obj\Debug\Common.Library.vbproj.AssemblyReference.cache
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\Common.Library\obj\Debug\Common.Library.Resources.resources
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\Common.Library\obj\Debug\Common.Library.vbproj.GenerateResource.cache
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\Common.Library\obj\Debug\Common.Library.vbproj.CoreCompileInputs.cache
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\Common.Library\obj\Debug\Common.Library.dll
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\Common.Library\obj\Debug\Common.Library.xml
+C:\Users\Leonid.Ristanovski\source\repos\AdventureWorks\Common.Library\obj\Debug\Common.Library.pdb
